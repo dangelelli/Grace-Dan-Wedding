@@ -48,6 +48,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	.cursor {
+		cursor: pointer !important;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
